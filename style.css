@@ -2,7 +2,28 @@ a[href^="https"]
 {
 color: rgb(128, 2, 0);
 }
+
 ul + p
 {
 font-size: 24px;
+}
+
+:root{
+    --button-colour-blue: #2196F3;
+}
+
+:root{
+    --border-colour-blue: #2F303A;
+}
+
+:root{
+    --text-colour-blue: #000000;
+}
+
+:root{
+    --text-colour-blue: #2196F3;
+}
+
+:root{
+    --text-colour-blue: #757575;
 }
